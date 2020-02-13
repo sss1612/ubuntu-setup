@@ -1,1 +1,1 @@
-apt install curl
+apt install -y curl
